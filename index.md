@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "PasqualeLNR Sample Website"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Entering sample text here
